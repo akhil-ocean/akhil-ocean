@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Akhil, a Physical Oceanographer decoding the ocean with code🌊🌏.
 <!--
 **akhil-ocean/akhil-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
